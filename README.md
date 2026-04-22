@@ -37,7 +37,7 @@ Réseau externe : 200.0.0.0/24
 
 ---
 
-## 🔧 Réalisation
+## Réalisation
 
 ### 🔹 VLAN & Routage
 - Création des VLAN
@@ -109,9 +109,9 @@ Le NAT (PAT) permet aux VLAN d’accéder au réseau externe.
 
 ## Résultats
 
-- Réseau automatisé via DHCP ✔  
-- Accès externe via NAT ✔  
-- Sécurité fonctionnelle ✔  
+- Réseau automatisé via DHCP 
+- Accès externe via NAT 
+- Sécurité fonctionnelle  
 
 ---
 
