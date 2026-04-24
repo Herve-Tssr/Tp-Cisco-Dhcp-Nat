@@ -33,6 +33,7 @@ Réseau externe : 200.0.0.0/24
 
 ## Architecture réseau
 
+![Visio](schema/Schema.png)
 ![Topologie](schema/topologie-v2.png)
 
 ---
